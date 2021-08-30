@@ -19,10 +19,9 @@
 	<a href="https://www.instagram.com/kushal_10_/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/home"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
-<br />
+
 ![Kushal's github stats](https://github-readme-stats.vercel.app/api?username=kushalbadal&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![kushal's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kushalbadal&layout=compact&langs_count=8&hide_border=true)
-<br />
+
 ### Programming Languages....
 
 <p align="center">
