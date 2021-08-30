@@ -20,6 +20,8 @@
 	<a href="https://twitter.com/home"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
+![Kushal's github stats](https://github-readme-stats.vercel.app/api?username=kushalbadal&show_icons=true&hide_border=true)&nbsp;&nbsp;
+
 ### Programming Languages....
 
 <p align="center">
