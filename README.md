@@ -1,4 +1,4 @@
-## Hi there, I'm Kushal Badal<img src="https://github.com/kushalbadal/kushalbadal/blob/main/Hi.gif" width="30px">
+## Hi there,<img src="https://github.com/kushalbadal/kushalbadal/blob/main/Hi.gif" width="30px"> I'm Kushal Badal
 
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
