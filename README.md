@@ -16,8 +16,7 @@
 	<a href="https://www.linkedin.com/in/kushal-badal-1b08ba163/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/kushal.badal.10"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://www.instagram.com/kushal_10_/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/home"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-</p>
+	</p>
 
 ![Kushal's github stats](https://github-readme-stats.vercel.app/api?username=kushalbadal&show_icons=true&hide_border=true&color=black)&nbsp;&nbsp;
 
